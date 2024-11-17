@@ -1,0 +1,11 @@
+/* CreateSegment.css */
+.segment-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .segment-list {
+    margin-top: 20px;
+  }
+  
